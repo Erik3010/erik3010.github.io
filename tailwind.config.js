@@ -6,6 +6,9 @@ module.exports = {
       fontFamily: {
         sans: ["Inter", "system-ui"],
       },
+      minHeight: {
+        card: "40px",
+      },
     },
   },
   variants: {
