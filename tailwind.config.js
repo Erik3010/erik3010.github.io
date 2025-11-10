@@ -9,6 +9,9 @@ module.exports = {
       minHeight: {
         card: "40px",
       },
+      height: {
+        hero: 640,
+      },
     },
   },
   variants: {
